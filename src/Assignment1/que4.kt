@@ -1,6 +1,5 @@
 package Assignment1
 
-
 fun main(){
     var size1="small"
     var size2="large"
